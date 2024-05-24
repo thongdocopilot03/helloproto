@@ -1,7 +1,7 @@
 syntax = "proto3";
 
 package example;
-option go_package = "gihub.com/thongdo2101/hello";
+option go_package = "gihub.com/thongdocopilot03/hello";
 
 message HelloRequest {
   string name = 1;
